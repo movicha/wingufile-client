@@ -1,0 +1,21 @@
+<RCC>
+<qresource>
+    <file>images/wingufile.png</file>
+    <file>images/account.svg</file>
+    <file>images/repo.svg</file>
+    <file>images/refresh.svg</file>
+    <file>images/account.png</file>
+    <file>images/repo.png</file>
+    <file>images/loading.gif</file>
+    <file>images/daemon_up.png</file>
+    <file>images/daemon_down.png</file>
+    <file>images/wingufile_auto_sync_disabled.png</file>
+    <file>images/wingufile_transfer_1.png</file>
+    <file>images/wingufile_transfer_2.png</file>
+    <file>images/mac/daemon_up.png</file>
+    <file>images/mac/daemon_down.png</file>
+    <file>images/mac/wingufile_auto_sync_disabled.png</file>
+    <file>images/mac/wingufile_transfer_1.png</file>
+    <file>images/mac/wingufile_transfer_2.png</file>
+</qresource>
+</RCC>
